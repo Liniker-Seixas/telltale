@@ -15,42 +15,49 @@ There is no server.**
 ## What Telltale reads
 
 - **Health data** (with your permission, through Apple HealthKit): heart
-  rate, heart-rate variability, resting heart rate and sleep.
+  rate, heart-rate variability, resting heart rate and sleep on your
+  iPhone; heart rate only on your Apple Watch.
 - **Calendar data** (with your permission, through Apple EventKit): event
-  titles, times, locations and attendee names for calendars synced to your
-  iPhone.
+  titles, times, locations, attendee names and your own reply to each
+  invite, for calendars synced to your devices.
 
 ## Where it is analyzed
 
-On your iPhone. Meeting scoring, attribution, forecasts, insights, the Pulse
-Score and the briefing are all computed there. Results are mirrored to your
-own paired Apple Watch over Apple's encrypted device-to-device Watch
-Connectivity link.
+On your devices. Your iPhone computes meeting scores, attribution,
+forecasts, insights, the Pulse Score and the briefing, and mirrors the
+results to your own paired Apple Watch over Apple's encrypted
+device-to-device Watch Connectivity link. When the iPhone is out of reach,
+the watch runs the same analysis on its own.
 
 ## iCloud
 
 Telltale syncs its own settings (your name, the lookback period and
-data-nerd mode) and your hidden and excluded people, meetings and series
-through your own
-iCloud account, using Apple's iCloud key-value storage, so they follow you
-to a new iPhone. Health data, calendar data and results never go to iCloud,
-and the developer cannot see what is there. Sync is on by default; turn it
-off under iCloud in Telltale's Settings, which also removes Telltale's copy
-from iCloud. Notification choices and which calendars count stay on each
-device.
+data-nerd mode) and your hidden and excluded lists through your own iCloud
+account, using Apple's iCloud key-value storage, so they follow you to a
+new iPhone. Those lists hold the names of people you hid and the titles and
+times of meetings and series you hid or excluded. Health data, results and
+the rest of your calendar never go to iCloud, and the developer cannot see
+what is there. Sync is on by default; turn it off under iCloud in
+Telltale's Settings, which also removes Telltale's copy from iCloud while
+each device keeps its own settings. Another iPhone that still syncs puts
+its copy back, so turn it off on each one. Notification choices and which
+calendars count stay on each device; when the iPhone is out of reach, the
+watch reads every calendar on it.
 
 ## Apple Intelligence
 
 When Apple Intelligence is turned on, Telltale uses Apple's on-device
 language model to phrase your briefing and to answer questions in Ask
 Telltale. It never uses Private Cloud Compute, so your questions and your
-data stay on your iPhone. The model only sees numbers Telltale has already
-computed, and it cannot reach the internet through Telltale.
+data stay on your iPhone. The model reads what Telltale has already
+computed, colleagues' names and meeting titles included, and it cannot
+reach the internet through Telltale.
 
 ## Notifications and Siri
 
 Storm warnings and the morning briefing are scheduled on the device from
-your own forecast. Siri answers come from the same on-device analysis.
+your own forecast. Siri answers come from the same on-device analysis, and
+only while your iPhone is unlocked.
 
 ## What Telltale does not do
 
@@ -62,15 +69,18 @@ your own forecast. Siri answers come from the same on-device analysis.
 ## Data you export is yours
 
 The share card and the CSV export are created only when you tap them, and go
-wherever you send them through the iOS share sheet. The share card can
-replace names with initials first.
+wherever you send them through the iOS share sheet. Neither names the
+people you hid, the CSV leaves out the meetings you hid, and the share card
+can replace every name with initials.
 
 ## Deleting your data
 
-Telltale stores only its settings and your hidden and excluded lists, in the
-app's own storage and, with iCloud sync on, in your iCloud. Turning sync off
-removes the iCloud copy; deleting the app removes the rest. Your Health and
-Calendar data stay in those apps and are never copied elsewhere.
+Telltale stores its settings, your hidden and excluded lists and the
+latest results it mirrored to your watch, in the app's own storage on your
+devices, and the settings and lists in your iCloud while sync is on.
+Turning sync off on every iPhone removes the iCloud copy; deleting the app,
+whose watch app goes with it, removes the rest. Your Health and Calendar
+data stay in those apps and are never copied elsewhere.
 
 ## Changes
 

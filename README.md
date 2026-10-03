@@ -10,6 +10,7 @@ Connect links to:
 - Privacy policy: https://liniker-seixas.github.io/telltale/privacy/
 - Support: https://liniker-seixas.github.io/telltale/support/
 
-`privacy.md` must say exactly what the app's own privacy policy says. When
-the policy changes, update both, then push; Pages rebuilds in about a
-minute.
+`privacy.md` is generated from the app's `PRIVACY_POLICY.md`, which the app
+also shows in its Settings, so never edit it here. After changing the
+policy, run `telltale/scripts/publish_policy.sh <this checkout>` in the app
+repository, then commit and push; Pages rebuilds in about a minute.

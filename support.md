@@ -29,11 +29,11 @@ Swipe right on a meeting to exclude it, hide it, or exclude its whole recurring 
 
 ## Does Telltale send my data anywhere?
 
-No. Your health and calendar data are analyzed on your iPhone and never leave your devices. Only Telltale's own settings and your hidden and excluded lists sync, through your own iCloud, and you can turn that off. Details are in the [privacy policy]({{ site.baseurl }}/privacy/).
+No. Your health and calendar data are analyzed on your iPhone, and on your watch when the iPhone is out of reach, and stay on your devices. Only Telltale's own settings and your hidden and excluded lists (names, and meeting titles and times) sync, through your own iCloud, and you can turn that off. Details are in the [privacy policy]({{ site.baseurl }}/privacy/).
 
 ## How do I delete my data?
 
-Turn off iCloud sync in Telltale's Settings to remove its iCloud copy, then delete the app. Your Health and Calendar data stay in those apps.
+Turn off iCloud sync in Telltale's Settings on each iPhone to remove its iCloud copy, then delete the app; its watch app goes with it. Your Health and Calendar data stay in those apps.
 
 ## Is Telltale a medical device?
 
