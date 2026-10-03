@@ -1,0 +1,6 @@
+title: Telltale
+description: Your heart already knows which meeting it was. Telltale names it.
+url: https://liniker-seixas.github.io
+baseurl: /telltale
+exclude:
+  - README.md
