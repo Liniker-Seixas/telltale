@@ -21,7 +21,7 @@ Wear your Apple Watch through your meetings; it records heart rate every few min
 
 ## Is stress only measured from heart rate?
 
-Heart rate is the core, because your watch measures it all day: Telltale compares your heart rate in each meeting with your own baseline from the 90 minutes around it, and tracks the rise in the 15 minutes before and how long you take to settle after. Your steps mark the minutes you spent walking, which are left out, so a walk never counts as stress. Overnight HRV, resting heart rate and sleep show how ready your body is. In the app, tap the info button on the stress card to see every signal beside your own numbers.
+Heart rate is the core, because your watch measures it all day: Telltale compares your heart rate in each meeting with your own baseline from the 90 minutes on either side, and tracks the rise in the 15 minutes before and how long you take to settle after. Your steps mark the minutes you spent walking, and those are left out of the comparison. Overnight HRV, resting heart rate and sleep show how ready your body is. In the app, tap the info button on the stress card to see every signal beside your own numbers.
 
 ## Apple Intelligence says it is getting ready
 
@@ -29,7 +29,11 @@ iOS downloads its on-device model in the background, over Wi-Fi and usually whil
 
 ## How do I hide or exclude a meeting, a person or a place?
 
-Swipe left on it, on the home screen or in any list: exclude a meeting or its whole recurring series, hide a meeting or a person, or leave out every meeting at a place. Press and hold for the same choices. Restore anything in Settings, Hidden and excluded.
+Swipe left on a meeting or a person on the home screen (or press and hold), or in the Meetings and People lists: exclude a meeting or every meeting with its title, or hide a meeting or a person. To leave out every meeting at a place, swipe it on the home screen's Places card or open the place and tap Leave out. Restore anything in Settings, Hidden and excluded.
+
+## Can I share a meeting or a colleague?
+
+Yes. Open the meeting or the person and tap the share button at the top. The card shows initials instead of names unless you turn that off, and a meeting card can leave out its title and place. People you hid never appear.
 
 ## Can I use Telltale in light mode?
 

@@ -17,8 +17,7 @@ There is no server.**
 - **Health data** (with your permission, through Apple HealthKit): heart
   rate, heart-rate variability, resting heart rate, sleep and step count on
   your iPhone; heart rate only on your Apple Watch. Steps serve one purpose:
-  leaving out the minutes you spent walking, so a walk never counts as
-  stress.
+  leaving out the minutes you spent walking.
 - **Calendar data** (with your permission, through Apple EventKit): event
   titles, times, locations, attendee names and your own reply to each
   invite, for calendars synced to your devices.
@@ -29,7 +28,7 @@ On your devices. Your iPhone computes meeting scores, attribution,
 forecasts, insights, the Pulse Score and the briefing, and mirrors the
 results to your own paired Apple Watch over Apple's encrypted
 device-to-device Watch Connectivity link. When the iPhone is out of reach,
-the watch runs the same analysis on its own.
+the watch runs the same analysis on its own, from heart rate alone.
 
 ## iCloud
 
@@ -73,10 +72,11 @@ only while your iPhone is unlocked.
 
 ## Data you export is yours
 
-The share card and the CSV export are created only when you tap them, and go
-wherever you send them through the iOS share sheet. Neither names the
-people you hid, the CSV leaves out the meetings you hid, and the share card
-can replace every name with initials.
+Share cards (your stress card, a meeting or a colleague) and the CSV export
+are created only when you tap them, and go wherever you send them through
+the iOS share sheet. None names the people you hid, the CSV leaves out the
+meetings you hid, and cards show initials instead of names unless you turn
+that off; a meeting card can leave out its title and place too.
 
 ## Deleting your data
 
