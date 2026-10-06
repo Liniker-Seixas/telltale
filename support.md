@@ -31,6 +31,10 @@ iOS downloads its on-device model in the background, over Wi-Fi and usually whil
 
 Swipe left on a meeting or a person on the home screen (or press and hold), or in the Meetings and People lists: exclude a meeting or every meeting with its title, or hide a meeting or a person. To leave out every meeting at a place, swipe it on the home screen's Places card or open the place and tap Leave out. Restore anything in Settings, Hidden and excluded.
 
+## What is the Pulse Score?
+
+One number for how your meetings sit with your heart, over the window you chose. It starts at 100, loses 5 points for every bpm your meetings run above your own baseline on average (at most 80), and up to 20 more for your hottest meeting: a point for each bpm it ran above +8. 90 and up is an A+ (Unflappable), 80 an A (Calm), 65 a B (Steady), 50 a C (Under pressure), 35 a D (Running hot), and below that an F (Overheating). Tap the info button beside the score to see the sum with your own numbers, or ask Telltale "How is my Pulse Score calculated?".
+
 ## Can Telltale warn me before a stressful meeting?
 
 Yes. In Telltale's Settings, open Meeting alerts and add one: for any meeting, for meetings with certain people, at certain places, or for meetings with a certain title. Slide to the stress level it should wait for, from Any to Severe storm, and choose how early to hear, from five minutes to the day before. Your Apple Watch shows the alerts while your iPhone is locked.
