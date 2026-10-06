@@ -19,17 +19,29 @@ Telltale scores calendar events that have at least one other attendee. Check tha
 
 Wear your Apple Watch through your meetings; it records heart rate every few minutes. iOS never tells apps what you chose for Health access, so check it in the Health app: your profile, Apps, Telltale.
 
+## Is stress only measured from heart rate?
+
+Heart rate is the core, because your watch measures it all day: Telltale compares your heart rate in each meeting with your own baseline from the 90 minutes around it, and tracks the rise in the 15 minutes before and how long you take to settle after. Your steps mark the minutes you spent walking, which are left out, so a walk never counts as stress. Overnight HRV, resting heart rate and sleep show how ready your body is. In the app, tap the info button on the stress card to see every signal beside your own numbers.
+
 ## Apple Intelligence says it is getting ready
 
 iOS downloads its on-device model in the background, over Wi-Fi and usually while charging. Its progress is in iOS Settings, Apple Intelligence & Siri. Telltale's own engine answers meanwhile and switches over by itself when the model is ready.
 
-## How do I hide or exclude a meeting or a person?
+## How do I hide or exclude a meeting, a person or a place?
 
-Swipe right on a meeting to exclude it, hide it, or exclude its whole recurring series. Press and hold a person to hide them. Restore anything in Settings, Hidden and excluded.
+Swipe left on it, on the home screen or in any list: exclude a meeting or its whole recurring series, hide a meeting or a person, or leave out every meeting at a place. Press and hold for the same choices. Restore anything in Settings, Hidden and excluded.
+
+## Can I use Telltale in light mode?
+
+Yes. Telltale is dark unless you choose otherwise: pick Light, or Match iPhone, in Telltale's Settings under Appearance.
+
+## How do I see the tour again?
+
+In Telltale's Settings, tap Take the tour.
 
 ## Does Telltale send my data anywhere?
 
-No. Your health and calendar data are analyzed on your iPhone, and on your watch when the iPhone is out of reach, and stay on your devices. Only Telltale's own settings and your hidden and excluded lists (names, and meeting titles and times) sync, through your own iCloud, and you can turn that off. Details are in the [privacy policy]({{ site.baseurl }}/privacy/).
+No. Your health and calendar data are analyzed on your iPhone, and on your watch when the iPhone is out of reach, and stay on your devices. Only Telltale's own settings and your hidden and excluded lists (names, meeting titles and times, and places) sync, through your own iCloud, and you can turn that off. Details are in the [privacy policy]({{ site.baseurl }}/privacy/).
 
 ## How do I delete my data?
 
