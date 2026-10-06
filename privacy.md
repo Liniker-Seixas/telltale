@@ -59,9 +59,12 @@ open the app until there is news.
 
 ## Notifications and Siri
 
-Storm warnings and the morning briefing are scheduled on the device from
-your own forecast. Siri answers come from the same on-device analysis, and
-only while your iPhone is unlocked.
+Meeting alerts and the morning briefing are scheduled on the device from
+your own forecast, and your Apple Watch shows them while your iPhone is
+locked. An alert names the meeting, and the person when you chose to hear
+about meetings with them, so the Show Previews setting in iOS decides what
+your Lock Screen reveals. Siri answers come from the same on-device
+analysis, and only while your iPhone is unlocked.
 
 ## What Telltale does not do
 

@@ -31,6 +31,10 @@ iOS downloads its on-device model in the background, over Wi-Fi and usually whil
 
 Swipe left on a meeting or a person on the home screen (or press and hold), or in the Meetings and People lists: exclude a meeting or every meeting with its title, or hide a meeting or a person. To leave out every meeting at a place, swipe it on the home screen's Places card or open the place and tap Leave out. Restore anything in Settings, Hidden and excluded.
 
+## Can Telltale warn me before a stressful meeting?
+
+Yes. In Telltale's Settings, open Meeting alerts and add one: for any meeting, for meetings with certain people, at certain places, or for meetings with a certain title. Slide to the stress level it should wait for, from Any to Severe storm, and choose how early to hear, from five minutes to the day before. Your Apple Watch shows the alerts while your iPhone is locked.
+
 ## Can I share a meeting or a colleague?
 
 Yes. Open the meeting or the person and tap the share button at the top. The card shows initials instead of names unless you turn that off, and a meeting card can leave out its title and place. People you hid never appear.
