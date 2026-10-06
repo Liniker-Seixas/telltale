@@ -32,8 +32,9 @@ the watch runs the same analysis on its own, from heart rate alone.
 
 ## iCloud
 
-Telltale syncs its own settings (your name, the lookback period and
-data-nerd mode) and your hidden and excluded lists through your own iCloud
+Telltale syncs its own settings (your name, the lookback period,
+data-nerd mode and which cards your home screen shows, in which order)
+and your hidden and excluded lists through your own iCloud
 account, using Apple's iCloud key-value storage, so they follow you to a
 new iPhone. Those lists hold the names of people you hid, the titles and
 times of meetings and series you hid or excluded, and the names of places

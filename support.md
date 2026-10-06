@@ -43,6 +43,10 @@ Yes. In Telltale's Settings, open Meeting alerts and add one: for any meeting, f
 
 Yes. Open the meeting or the person and tap the share button at the top. The card shows initials instead of names unless you turn that off, and a meeting card can leave out its title and place. People you hid never appear.
 
+## Can I choose what the home screen shows?
+
+Yes. Tap Customize home screen at the bottom of the home screen, or open Telltale's Settings and tap Home screen under Appearance. Turn off the cards you do not need and drag the rest into any order; your briefing and Pulse Score always stay at the top. With iCloud sync on, a new iPhone opens on the same home screen.
+
 ## Can I use Telltale in light mode?
 
 Yes. Telltale is dark unless you choose otherwise: pick Light, or Match iPhone, in Telltale's Settings under Appearance.
