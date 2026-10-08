@@ -20,7 +20,10 @@ There is no server.**
   leaving out the minutes you spent walking.
 - **Calendar data** (with your permission, through Apple EventKit): event
   titles, times, locations, attendee names and your own reply to each
-  invite, for calendars synced to your devices.
+  invite, for calendars synced to your devices. Telltale also scans each
+  event's notes and link for a video-call address (Zoom, Teams, Meet and
+  the like), only to tell video calls from in-person meetings; it keeps
+  nothing from them.
 
 ## Where it is analyzed
 

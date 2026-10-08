@@ -47,6 +47,14 @@ Yes. Open the meeting or the person and tap the share button at the top. The car
 
 Yes. Tap Customize home screen at the bottom of the home screen, or open Telltale's Settings and tap Home screen under Appearance. Turn off the cards you do not need and drag the rest into any order; your briefing and Pulse Score always stay at the top. With iCloud sync on, a new iPhone opens on the same home screen.
 
+## Can I change how the Pulse Score looks?
+
+Yes. Open Telltale's Settings and tap Score style under Appearance. Choose a ring, a square, an arc or just the number, and a color set: Heat follows your score from mint to coral, while Violet, Ocean, Ember and Silver keep one color. The style shows on the home screen, the share card and your Apple Watch.
+
+## Do I need an Apple Watch?
+
+To analyze your own meetings, yes: Telltale compares the heart rate your Apple Watch records during each meeting with your own baseline. Without one, tap Explore with demo data to see everything it does with a month of sample meetings.
+
 ## Can I use Telltale in light mode?
 
 Yes. Telltale is dark unless you choose otherwise: pick Light, or Match iPhone, in Telltale's Settings under Appearance.
