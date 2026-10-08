@@ -7,7 +7,7 @@ permalink: /privacy/
 
 # Privacy Policy
 
-<p class="updated">Last updated 6 October 2026</p>
+<p class="updated">Last updated 8 October 2026</p>
 
 **The short version: your health and calendar data stay on your devices.
 There is no server.**
